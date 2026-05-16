@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-people-pro",
+  "name": "@lesterchan/homebridge-people-pro",
   "version": "0.12.0",
   "description": "Homebridge plugin that provides details of who is in a Home + History (powered by fakegato)",
   "license": "MIT",
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lesterchan/homebridge-people-pro.git"
+    "url": "git+https://github.com/lesterchan/homebridge-people-pro.git"
   },
   "engines": {
     "node": "^22.12.0 || ^24.0.0",
