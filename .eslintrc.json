@@ -12,6 +12,9 @@
       "SharedArrayBuffer": "readonly",
       "Service": "readonly",
       "Characteristic": "readonly",
+      "Formats": "readonly",
+      "Perms": "readonly",
+      "Units": "readonly",
       "FakeGatoHistoryService": "readonly"
     },
     "parserOptions": {
